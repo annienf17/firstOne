@@ -1,1 +1,2 @@
-Pierwszy plik utworzony w git Ani 
+Pierwszy plik utworzony w git Ani
+Hello tworzymy reposytorium teraz 2019r
